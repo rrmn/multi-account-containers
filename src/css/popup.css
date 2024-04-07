@@ -360,6 +360,118 @@ table {
   --identity-icon-color: #af51f5;
 }
 
+/* Additional colors START */
+[data-identity-color="brown"] {
+  --identity-tab-color: #8B4513;
+  --identity-icon-color: #8B4513;
+}
+
+[data-identity-color="cyan"] {
+  --identity-tab-color: #00FFFF;
+  --identity-icon-color: #00FFFF;
+}
+
+[data-identity-color="teal"] {
+  --identity-tab-color: #008080;
+  --identity-icon-color: #008080;
+}
+
+[data-identity-color="maroon"] {
+  --identity-tab-color: #800000;
+  --identity-icon-color: #800000;
+}
+
+[data-identity-color="navy"] {
+  --identity-tab-color: #000080;
+  --identity-icon-color: #000080;
+}
+
+[data-identity-color="lavender"] {
+  --identity-tab-color: #E6E6FA;
+  --identity-icon-color: #E6E6FA;
+}
+
+[data-identity-color="coral"] {
+  --identity-tab-color: #FF7F50;
+  --identity-icon-color: #FF7F50;
+}
+
+[data-identity-color="indigo"] {
+  --identity-tab-color: #4B0082;
+  --identity-icon-color: #4B0082;
+}
+
+[data-identity-color="peach"] {
+  --identity-tab-color: #FFE5B4;
+  --identity-icon-color: #FFE5B4;
+}
+
+[data-identity-color="mint"] {
+  --identity-tab-color: #98FF98;
+  --identity-icon-color: #98FF98;
+}
+
+[data-identity-color="gold"] {
+  --identity-tab-color: #FFD700;
+  --identity-icon-color: #FFD700;
+}
+
+[data-identity-color="silver"] {
+  --identity-tab-color: #C0C0C0;
+  --identity-icon-color: #C0C0C0;
+}
+
+[data-identity-color="olive"] {
+  --identity-tab-color: #808000;
+  --identity-icon-color: #808000;
+}
+
+[data-identity-color="salmon"] {
+  --identity-tab-color: #FA8072;
+  --identity-icon-color: #FA8072;
+}
+
+[data-identity-color="skyblue"] {
+  --identity-tab-color: #87CEEB;
+  --identity-icon-color: #87CEEB;
+}
+
+[data-identity-color="tan"] {
+  --identity-tab-color: #D2B48C;
+  --identity-icon-color: #D2B48C;
+}
+
+[data-identity-color="violet"] {
+  --identity-tab-color: #8A2BE2;
+  --identity-icon-color: #8A2BE2;
+}
+
+[data-identity-color="orchid"] {
+  --identity-tab-color: #DA70D6;
+  --identity-icon-color: #DA70D6;
+}
+
+[data-identity-color="sienna"] {
+  --identity-tab-color: #A0522D;
+  --identity-icon-color: #A0522D;
+}
+
+[data-identity-color="slategray"] {
+  --identity-tab-color: #708090;
+  --identity-icon-color: #708090;
+}
+
+[data-identity-color="peru"] {
+  --identity-tab-color: #CD853F;
+  --identity-icon-color: #CD853F;
+}
+
+[data-identity-color="thistle"] {
+  --identity-tab-color: #D8BFD8;
+  --identity-icon-color: #D8BFD8;
+}
+/* Additional colors END */
+
 [data-identity-icon="fingerprint"] {
   --identity-icon: url("/img/usercontext.svg#fingerprint");
 }
